@@ -1,4 +1,4 @@
-#Mixed Message Project
+##Mixed Message Project
 
 Portfolio project for Codecademy Course.
 Main goal was to make program that is using 3 pieces of data and return a random message.
